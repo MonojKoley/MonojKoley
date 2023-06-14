@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MonojKoley
-- 👀 I’m interested in Front-End Web Design, Graphics Design
+- 👀 I’m interested in WordPress Design, Front-End Web Design, Graphics Design
 - 🌱 I’m currently learning Front-End Web Development
 - 📫 How to reach me monojkoley@outlook.com
 
